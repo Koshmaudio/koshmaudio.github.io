@@ -1,0 +1,17 @@
+.plyr__video-embed {
+  width: 100%;
+  max-width: 20px;
+  height: 0;
+  margin: 0 auto;
+  padding-bottom: 56.25%;
+  position: relative;
+}
+
+.video-container video, .video-container iframe {
+  width: 50%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+/*# sourceMappingURL=simplefolio.49647e67.css.map */
